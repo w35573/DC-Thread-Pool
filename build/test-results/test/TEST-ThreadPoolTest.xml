@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ThreadPoolTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-11-04T07:24:19" hostname="LAPTOP-HQ77SL3T" time="0.345">
+  <properties/>
+  <testcase name="TestCreation" classname="ThreadPoolTest" time="0.008"/>
+  <testcase name="TestExecutionWithDifferentTypesOfTask" classname="ThreadPoolTest" time="0.137"/>
+  <testcase name="TestExecutionDuringAddingTasks" classname="ThreadPoolTest" time="0.155"/>
+  <testcase name="TestExecutionBeforeAddingTasks" classname="ThreadPoolTest" time="0.026"/>
+  <testcase name="TestAddingTask" classname="ThreadPoolTest" time="0.0"/>
+  <testcase name="TestExecutionAfterAddingTasks" classname="ThreadPoolTest" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

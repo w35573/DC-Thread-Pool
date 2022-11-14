@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BatchTaskManagerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-11-04T07:24:13" hostname="LAPTOP-HQ77SL3T" time="6.322">
+  <properties/>
+  <testcase name="TestBatchSize" classname="BatchTaskManagerTest" time="0.154"/>
+  <testcase name="TestDispatchToThreadPoolOnBatchTimer" classname="BatchTaskManagerTest" time="6.151"/>
+  <testcase name="TestDispatchToThreadPoolOnBatchSize" classname="BatchTaskManagerTest" time="0.015"/>
+  <system-out><![CDATA[Testing thread Sleeping...
+Testing thread woke up...
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
